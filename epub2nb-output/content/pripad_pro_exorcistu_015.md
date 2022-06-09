@@ -5,11 +5,7 @@ contentType: prose
 
 ## LIII.
 
-  
-
 Marii je dvacet pět let. Leží s manželem na pláži. Svatební cesta. Bělostný písek, vyšisovaná blankytná obloha, zelenošedé moře, stříbrná pěna vln. Ozývá se křik. Marie se zvedá. Na břehu leží mrtvý delfín, vedle další. Kam oko dohlédne, na písku umírají delfíni. Desítky zvířat. Lidé se sbíhají a z dálky zvoní telefon. Ten zvuk se přibližuje, jak Marie běží k umírajícím zvířatům. Rozhlíží se a to zvonění najednou přichází z nitra nejbližšího delfína…
-
-  
 
 Marie navyklým pohybem hrábla na noční stolek a nahmatala mobil. Šest hodin! Slepenýma očima zamžourala na displej, kdo volá, a pak zmáčkla tlačítko pro přijetí hovoru. „Jestli to není něco důležitýho, tak ve chvíli, kdy mi začne pracovní doba, obdržíš mou hodinovou výpověď,“ řekla.
 
@@ -80,8 +76,6 @@ Marie složila hlavu do dlaní.
 „Viktore,“ zvedla Marie oči k Vitoušovi, „já se v tom zmatku vůbec neorientuju.“
 
 ## LIV.
-
-  
 
 Ucpané ranní silnice je zpomalily, takže než se dostaly do Štěpánova, hodiny na palubní desce služební oktávie hlásily čtvrt na osm. Na křižovatce u prodejny zeleniny odbočily doleva směrem k vlakovému nádraží. Situace byla podobná jako před osmi dny. Po vesnici se už rozkřiklo, že se zas něco děje, a tak směrem k nádraží proudily hloučky zvědavců a babiček v šátcích a teplých svetrech udatně šlapajících do pedálů letitých bicyklů.
 
@@ -217,8 +211,6 @@ Přešli cestu k řadovému dvoupatrovému domku s uniformně šedou fasádou.
 
 ## LV.
 
-  
-
 Dveře domku otevřela mladá žena a za zády jí vykukovala dvě děvčátka. Paní Doulová mohla mít kolem pětatřiceti, ale vypadala o deset let starší; obličej oteklý únavou, zplihlé mastné vlasy pod uši, čelo poseté vyrážkami. Na sobě měla dlouhé červené triko do půlky stehen, zpod něhož vykukovaly holé, sádrově bílé nohy – baňatá nafialovělá kolena s tlustou popraskanou kůží a lýtka obrostlá tmavými chloupky. Každému z návštěvníků při pohledu na ni vytanuly jiné pocity. Kristýna si představila, co by s touhle opotřebovanou matkou dvou dětí, která nebude o moc starší než ona, udělaly kadeřnice, průměrná stylistka a něco kvalitní kosmetiky. Edelweisse zcela neprofesionálně napadlo, že některé týrané ženy si o těch pár facek přímo říkají. Marii jí bylo prostě a jednoduše líto.
 
 Představili se a paní Doulová na ně pár vteřin udiveně hleděla, než jim pokynula, aby šli dál. Holčičky, jedna pětiletá a druhá už ve školních letech, se držely maminky a prohlížely si nezvyklou návštěvu. „Tady je ale všechno naprosto v pořádku,“ řekla paní Doulová nejistým hlasem. Určitě věděla o výstupu s jejím mužem a měla strach, že kdyby se stala svědkem další manželovy potupy, mohl by si pak vylít zlost a vztek na ní.
@@ -343,8 +335,6 @@ Kristýna se poškrábala pod ortézou, připadala si v tu chvíli strašně hl
 
 ## LVI.
 
-  
-
 Nejprve ale vyhledaly doktora Anděla. Zrovna dokončoval pitvu Zdeny Králové. Pár minut čekaly ve vykachlíkovaném předsálí, pak je doktor Anděl v zeleném operačním plášti a igelitové zástěře pozval dovnitř. Na stole uprostřed místnosti leželo tělo, celé zahalené v zeleném prostěradle. Ven vykukovala jen drobná ženská chodidla s nalakovanými nehty. Kristýna v pitevně ještě nikdy nebyla, takže se ztuhle rozhlížela a snažila se silou vůle nemyslet na to, že by jí třeba mohlo být špatně.
 
 „Co krk?“ zeptal se jí bodře doktor. Kristýna zahučela, že dobrý.
@@ -370,8 +360,6 @@ Marie mlčky pokývala hlavou.
 „Zbytek bude ve zprávě,“ uzavřel doktor Anděl.
 
 ## LVII.
-
-  
 
 Hlídka ve voze šikmo přes ulici neměla sebemenší tušení o Pánkově nočním výletu. Po dvou hodinách napjatého ticha spolu Pacák a Purkyně začali komunikovat, což ovšem nebylo známkou obno­vení přátelských vztahů, ale projevem zcela utilitární potřeby neusnout.
 
@@ -499,8 +487,6 @@ Marie s Kristýnou vyšly na chodbu. Přestávka mezi hodinami skončila a na 
 
 ## LVIII.
 
-  
-
 „Vy nás dneska proháníte,“ řekl Edelweissovi na přivítanou šéf týmu specialistů na ohledání místa činu. „Napřed v noci ta vražda, teď zas tohle.“ Šéf techniků byl poněkud dýchavičný padesátník, který trpěl nadváhou a v jednom kuse se potil. „Přijeli jsme jen dva,“ řekl. „Pokud se tu neobjeví žádné další mrtvoly, tak to auto máme za chvilku hotový.“
 
 Otevření Nemravova služebního vozu nechal Edelweiss na nich. Z Olomouce dorazily další posily a Edelweiss jim rozdal úkoly: jít postupně systematicky dům od domu, všude zazvonit a ptát se na Nemravu. Aspoň v tomhle viděl výhodu vesnického života – Nemravu tu všichni znali, což logicky muselo usnadnit pátrání. Šéf techniků se vynořil z Nemravova auta: prohledal interiér i kufr, vše je čisté – žádné známky násilí na řidiči vozu či jakékoliv stopy krve. Druhý z techniků prohlížel přihrádku na přístrojové desce – když se z vozu na straně spolujezdce vynořil, držel v ruce zápisník. Prolistoval jej a pak zavolal na Edelweisse. „Tohle vás bude zajímat!“
@@ -508,8 +494,6 @@ Otevření Nemravova služebního vozu nechal Edelweiss na nich. Z Olomouce dor
 Edelweiss se posadil do svého auta a nalistoval poslední stránky. Velká Sova měla pravdu – Nemrava skutečně na něco přišel. Začínalo být zřejmé, kam stočit pátrání, když z boční uličky od domků staré dělnické kolonie přiběhl jeden z uniformovaných policistů. „Pane nadporučíku!“ volal. Všichni přítomní – policajti zajišťující místo činu, oba technici i místní čumilové – se po něm otočili, až se běžící policajt zarazil. „Něco tu máme. Jedna paní viděla včera Nemravu a zřejmě i ví, s kým mluvil.“
 
 ## LIX.
-
-  
 
 „Co vlastně dělá vaše žena?“ zeptala se Marie, když Pánek po pár minutách otevřel dveře učebny.
 
@@ -562,8 +546,6 @@ Marie s Kristýnou vstaly. Ve dveřích se Marie ještě otočila: „Má vaše
 Vyšly na chodbu. Marie se podívala z okna na neútulné nádvoří fakulty. Kristýna napjatě vyčkávala, co bude dál. „Myslím, že to máme,“ řekla Marie Výrová. A právě v tu chvíli jí zazvonil mobil.
 
 ## LX.
-
-  
 
 Karolína Semerádová nabídla Pavlu Edelweissovi židli a toho na malou chvíli opět pojal děs, že místo rychlého šetření, co se stalo s nebohým obecním policajtem Nemravou, bude muset opět čelit vyčerpávající hanácké pohostinnosti. Paní Semerádovou objevil rotný Kubík. Spolu s třemi dalšími procházel domky dělnické kolonie – a měl štěstí, že narazil na informovaný zdroj.
 
@@ -647,8 +629,6 @@ Jeho nadšení trvalo jen krátce. „Jo,“ ozvalo se na druhé straně, „my 
 
 ## LXI.
 
-  
-
 „Nemrava je mrtvý, Pavle,“ uzavřela Marie Výrová hovor. „Jakýkoliv optimismus není namístě. No nic, je na čase těm zmetkům utnout tipec. Malý moment…,“ otočila se na Kristýnu, která bedlivě poslouchala Mariin hovor. „Kristýno, zavolej pro posily. Ať přijedou rychle, ale bez humbuku. Aspoň dva vozy. Pavle, kolik tam máte lidí?“
 
 „Deset,“ odpověděl Edelweiss a rozhlédl se po ulici. Paní Seme­rádová stála ve své nažehlené květované zástěře na zápraží a sledovala jej bedlivým zrakem účetní na penzi.
@@ -723,8 +703,6 @@ Pánek zacloumal s rukama za zády. „Vy mě povedete přes celou budovu?“ v
 
 ## LXII.
 
-  
-
 Venku před budovou přírodovědecké fakulty už čekaly čtyři služební vozy, dostavil se i sám Nejvyšší. „Vidím, že jste si, dámy, poradily i bez nás,“ zvolal na přivítanou. Na rušné třídě proudily davy chodců a zvonily tramvaje. Pánek byl vyděšený, zmateně se rozhlížel kolem a pak se otočil k budově fakulty a zvedl hlavu k oknům. V tu chvíli mu ovšem došlo, že se takto sice dozví, kdo všechno se dívá, ale současně mu potenciální zvědavci uvidí do obličeje – a tak bez jakéhokoliv zdráhání nastoupil do policejního vozu.
 
 „Kristýno, odvez ho k nám, pouč ho o právech a nech ho sehnat si advokáta,“ řekla Marie.
@@ -772,8 +750,6 @@ Marie ironicky pozvedla obočí: „Genderová diskriminace?“
 Vitouš a čtyři další policisté vystoupili z vozů. Dva zůstali venku, Vitouš se zbylými dvěma vešel dovnitř. Za tři minuty odváželi Václava Kulicha na služebnu. Štěpánovský zámečník byl tak překvapený, že než se stačil vzpamatovat, měl na rukou želízka.
 
 ## LXIII.
-
-  
 
 Čtyři vraždy. Tři určitě, čtvrtá pravděpodobně. Když Pavel Edelweiss vystupoval ve společnosti mladého a snaživého rotného Kubíka (objevil paní Semerádovou, tak ho „za odměnu“ vzal s sebou) z vozu na druhém konci Štěpánova, uvědomil si, že čtyřnásobnou vražednici ještě nikdy nezatýkal. Jak někdo takový může vypadat? Jeho dosavadní zkušenosti mu jasně říkaly, že nejspíš zcela všedně a banálně.
 
@@ -825,7 +801,7 @@ Kubík byl natolik v šoku, že zřejmě ani neregistroval bolest; z rány mu 
 
 ## LXIV.
 
-Záznam výslechu Jana Pánka.
+_Záznam výslechu Jana Pánka._
 
 EDELWEISS: Takže půjdeme rovnou na věc: Kde je Josef Nemrava?
 
@@ -1021,7 +997,7 @@ PÁNEK: Co pak se mnou bude?
 
 EDELWEISS: Státní zástupce zohlední vaši ochotu spolupracovat a pravdomluvnost.
 
-Konec záznamu.
+_Konec záznamu._
 
 Edelweiss vstal a šel ke dveřím. „Jo a mimochodem – kde je Josef Nemrava nebo jeho tělo?“
 
@@ -1036,8 +1012,6 @@ Edelweiss vstal a šel ke dveřím. „Jo a mimochodem – kde je Josef Nemra
 Pavel Edelweiss vyšel ze dveří a na chodbě se opřel o stěnu, aby vydechl. Adrenalin mu zvýšil tepovou frekvenci, srdce mu bušilo tak, že musel zhluboka dýchat, aby nabral dech. První velký samostatný výslech! A nezvoral to. Nezvoral to!
 
 ## LXV.
-
-  
 
 Václava Kulicha si vzal na starost sám Nejvyšší. Když vešel do výslechové místnosti, našel Kulicha rozvaleného na židli a dožadujícího se cigaret, které zůstaly ležet na jeho stole v zámečnické dílně. Měl na sobě pracovní kombinézu se skvrnami od oleje, z náprsních kapes mu trčel jakýsi hadr, který zřejmě sloužil jako utěrka na hrubé ruce s olámanými nehty, téměř tmavě hnědé od zažrané špíny a cigaret. Hygiena zřejmě nebyla Kulichovou nejsilnější stránkou. Štiplavá směs potu, piva a cigaretového kouře už stačila zaplnit uzavřenou místnost, takže sotva Vitouš strčil hlavu dovnitř, rychle vycouval a spustil klimatizaci. Kulich na něj hleděl drobnýma očima v zarud­lém, odulém obličeji. Na pravé lícní kosti mu vyskočila narůžovělá vyrážka, zřejmě navíc ještě podrážděná nedávným holením. Drze a sebevědomě se usmíval. Vitouš se na něj usmál taky – měl rád tenhle typ úsměšku na tvářích lidí jako Kulich. Měl to rád, protože se vždycky těšil na okamžik, kdy těmhle lidem dojde, že jsou úplně v prdeli, a ten úsměšek jim z jejich samolibých ksichtů zmizí.
 
@@ -1060,8 +1034,6 @@ Ne, už jim nemá dál co říct. Tím skončil.
 Viktor Vitouš vyšel z výslechové místnosti. Kulicha jeho úsmě­šek nepřešel. Vitouše ovšem také ne a přikázal dát toho debila pod zámek.
 
 ## LXVI.
-
-  
 
 Doktor Anděl předal Marii složku, pak s ní asi pět minut tiše hovořil a procházel s ní obsah dokumentů, které pro ni připravil. Pak si Marie přečetla Pánkovu výpověď. Zaměřila se hlavně na vraždu Zdeny Králové. Pánek nešetřil detaily…
 
@@ -1110,8 +1082,6 @@ Jan Pánek povolil igelit a přiložil Zdeně Králové dva prsty na krční te
 Edelweiss netrpělivě čekal, až se jeho šéfová dá do výslechu. Marie pokývala hlavou. „No, se Štěpánovou zatím počkám. Vyrukuju na ni s Královou, z toho se nebude moct vykroutit.“
 
 ## LXVII.
-
-  
 
 Ve vyšetřovně už čekala Anna Pánková se svým právníkem. Z vedlejší místnosti přes sklo vše sledovali Pavel Edelweiss s Kristýnou Horovou; jakmile vešel starý doktor, Edelweiss vstal a uvolnil mu svou židli.
 
@@ -1193,4 +1163,4 @@ Prošla chodbou – mezitím z výslechové místnosti vyšli Edelweiss, Krist
 
 * * *
 
-[1](./resources/undefined) Citát z písně Boba Dylana v překladu Michala Bystrova.
+_[1](./resources/undefined) Citát z písně Boba Dylana v překladu Michala Bystrova._

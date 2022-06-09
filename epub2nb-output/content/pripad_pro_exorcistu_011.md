@@ -5,8 +5,6 @@ contentType: prose
 
 ## XXXII.
 
-  
-
 Telefon zazvonil o tři čtvrtě na šest. Jednou, než Marii Výrové došlo, co se děje, podruhé, než se vyhrabala z peřin (od televize do postele se přesunula někdy kolem čtvrt na dvě) a rozlepila oči, a potřetí – ale to už zvedla. Věděla, že se něco stalo, protože to byl Pavel Edelweiss. Stručně ji informoval. Asi tam musíme jet, že? No, to musíme. Zvládnete to do dvaceti minut? A vy? Dobře, za čtvrt hodiny mě vyzvedněte.
 
 6:05 vyjeli od domu. Edelweiss pustil modrá světla a rychle projeli městem, kde v to nedělní ráno až na ojedinělé pejskaře všichni spali. „Vstříc boji se zločinem!“ komentoval to Edelweiss. 6:15 vyjeli z města, 6:27 vjeli do Štěpánova a 6:35 zaparkovali před farou, za dalšími dvěma policejními vozy. Záchranář v červené kombinéze a doktorka celá v bílém nastupovali do sanitky, vypadali jak neúplná mikulášská sestava. U chodníku čekal obecní strážník Nemrava: vyběhl z domu konat svou povinnost tak rychle, že se ani nestačil řádně ustrojit. Zpod špatně zapnuté služební bundy prosvítalo modře pruhované pyžamo, místo černých kalhot měl na sobě laciné džíny a na nohou do šeda ošoupané prestižky. Na čepici však nezapomněl.

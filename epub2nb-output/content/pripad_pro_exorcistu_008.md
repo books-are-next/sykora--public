@@ -5,8 +5,6 @@ contentType: prose
 
 ## VI.
 
-  
-
 K vesnici přijeli se zapnutým majákem, ale jakmile vjeli mezi domky, musel praporčík Kodet spustit i sirénu. Nic jim to však nebylo platné. Po celé šířce silnice jely v dvoj- či trojstupu ošátkované babky na prehistorických bicyklech a kličkovaly kolem zaparkovaných dvacet let starých škodovek. Jiné škodovky je zas předjížděly a na chodnících před domy pokuřovali vypasení strejcové v teplácích, na parapetech přízemních oken měli postavené neodmyslitelné lahváče a debatovali – nejspíš o celém tom rozruchu kolem nebo už o šestém služebním policejním voze, který se ploužil kolem a zoufale se snažil zrychlit. Krásné říjnové dopoledne na vsi, vlahé počasí, sluníčko svítí, důchodci a nezaměstnaní. Majorka JUDr. Marie Výrová z Úřadu služby kriminální policie a vyšetřování Policie ČR v Olomouci si to vše prohlížela ze sedadla spolujezdkyně: Tak tohle je Štěpánov.
 
 Vesnici, roztažené do pětikilometrové délky, obklopené přifařenými vesničkami, chybí geografické centrum, cokoliv, co by připomínalo náves. Zajímavější je její Dolní konec, kde kousek od vlakového nádraží, jež obec vlastně jen tak lehce tečuje, stojí starý odsvěcený kostel sv. Barbory, červená pseudogotická stavba, sloužící kdysi Němcům pracujícím v místních hutích, dnes již zaniklých. O kousek dál pro ně postavili kolonii dělnických domků, mikrosvět sám o sobě, chudinskou čtvrť sestávající z dvou řad na sebe nalepených zahrádek a domečků o dvou místnostech – kuchyňky a síně, miniaturních jak obydlí pro hobity. K nim je absurdně přilepeno několik paneláků, chudinská čtvrť moderní doby. Pak už se jen vesnice zužuje a táhne do nekonečné dálky, nic jiného než silnice olemovaná domky a bývalými grunty. Linkovému autobusu z Olomouce trvá šest zastávek, než se překodrcá z jednoho konce na druhý.
@@ -50,8 +48,6 @@ Prošli tepanou branou, tři schůdky ke kostelu a protáhli se po­otevřeným
 Měl pravdu. Něco takového ještě nikdy neviděla.
 
 ## VII.
-
-  
 
 Vysokými okny se do kostela táhly pruhy nazelenalého světla a mezi bloky kostelních lavic rozehrávaly strakatou hru světel a stínů. Uvnitř byl kostel vzorně udržovaný, hlavní kostelní loď po stranách lemovaly obrazy tematizující Ježíšovu poslední cestu a menší oltáře v bočních lodích. Mariiny kroky se rozléhaly tichým prostorem, ruch z venku sem doléhal jakoby z velké dálky, jen jakousi ozvěnou skutečného hluku.
 
@@ -164,8 +160,6 @@ Marie chvátala ke dveřím, a když kněze oslovila, podíval se na ni a pohl
 „Veronika. Ona není mrtvá, že? Že žije…?“ odpověděl mladý kněz, jako by vůbec nereagoval na otázku, ale spíš si mluvil sám pro sebe. Marie viděla ten šok, děs na jeho tváři, slzy na tvářích… Viděla už hodně takových situací, manželů, rodičů, dětí reagujících na smrt někoho blízkého, takže dovedla poznat, že knězovo zoufalství není zoufalstvím člověka, který vidí smrt někoho, koho zná, ale je re­akcí na smrt někoho skutečně velmi blízkého. Kněz sedící na dlažbě kostela si přikryl obličej rukama a dal se do pláče. Druhý, starší, v Mariině věku, k němu poklekl a zezadu jej oběma rukama pevně objal.
 
 ## VIII.
-
-  
 
 Když vyšlo najevo, že kněz mrtvou zná a že má k její smrti zřejmě co říct, společně se dohodli, že výslech provedou v klidu na policejní služebně v Olomouci. Potíže ovšem nastaly hned nato. Otec Karas, štěpánovský farář, trval na tom, aby se mohl s mrtvou rozloučit; Viktor Vitouš byl proti, a tak až druhý kněz, otec Stárek, sloužící v jedné z olomouckých farností, vyjednal kompromis v podobě dvaceti minut společných modliteb, za diskrétního dozoru dvou policistů, kteří však zůstanou u vchodu, ještě předtím, než kostel uzavřou, aby policejní technici mohli nastoupit na místo činu.
 
@@ -315,8 +309,6 @@ Bylo přesně půl jedenácté, když podplukovník Viktor Vitouš zahájil výs
 
 ## IX.
 
-  
-
 „Můžeme začít?“ zeptal se náčelník Vitouš.
 
 Oba kněží souhlasili. Vitouš zapnul nahrávací zařízení.
@@ -382,8 +374,6 @@ Efekt jeho slov byl na oba kněze ohromující. Marie vše sledovala a z reakc
 „Pane faráři,“ zeptal se Vitouš. „Zabýváte se vymítáním ďábla?“
 
 ## X.
-
-  
 
 Pavel Edelweiss byl o patnáct let mladší než Marie Výrová a společně pracovali už tři roky. Ze začátku mu chvíli trvalo, než si přivykl na zvláštnosti své nové šéfové – zejména na její ostentativní ignorování veškeré subordinace, všeho rigidně armádního v policejních složkách. Odmítala používat hodnosti – od kolegů a podřízených vyžadovala, aby ji oslovovali nikoliv jako majorku, ale jako doktorku práv, stejně tak se na Edelweisse neobracela jako na nadporučíka, ale jako na kolegu magistra. Ještě snesla titul vrchní komisařka, ale jak sama říkala, majorkou nikdy nebyla ani nebude.
 
@@ -468,8 +458,6 @@ Proti železné logice hanácké hospodyně nebylo úniku.
 „Tak dobře,“ řekl Pavel, „ale jen kousek.“ Další půlka závinu mu přistála na talíři.
 
 ## XI.
-
-  
 
 Mezi Marií Výrovou a Viktorem Vitoušem vládl respekt, ale pracovat spolu by nemohli. Oba to věděli, oba s tím byli srozuměni a smířeni. Vitouš jako šéf oddělení všemu vládl ze své kanceláře, práci v terénu nechal ostatním. Vždy na začátku se seznámil s případem, rozdělil úlohy a pak nechal Marii Výrové jako své nejzdatnější vyšetřovatelce volné pole, byť její práci sledoval a prostřednictvím pravidelných porad i řídil. Šlo o standardní postup. Ale měl rád výslechy. Přímo je miloval a vychutnával si je. Metoda jeho práce byla přímo protikladná té Mariině. Zatímco ona postupně sbírala informace, ohledávala terén, vztahy, příčiny a motivy, Vitoušovi stačilo sebemenší podezření, aby viníka, ať už domnělého či skutečného, podrobil inkviziční proceduře svého vyšetřování. Mělo to své výsledky, samozřejmě pokud zrovna nešlápl zcela vedle a nedeptal člověka nevinného. Byl zavilý, nemilosrdný, otázky dokázal klást s výborným načasováním, byl agresivní, jízlivý a rád chytal za slovo. Marie tenhle styl práce neměla ráda a zvláště, když si sama byla stoprocentně jistá, že vyslýchaný nemá s případem co dělat, jí byly Vitoušovy metody dost proti srsti. Jednou označila Vitoušovy způsoby výslechu za gestapácké; spíš ale měla na mysli slovo estébácké, což pro ni bylo synonymum prvního jmenovaného. Případně, protože o Vitoušově minulosti toho mnoho nevěděla, spíše se domýšlela na základě jemných indicií.
 
@@ -595,8 +583,6 @@ Vyběhla ze dveří, rychle očima přelétla parkoviště a našla auto otce K
 
 ## XII.
 
-  
-
 Zpět do Štěpánova vezl Marii strážmistr Purkyně, jehož si Velká Sova oblíbila, neboť jej považovala za velmi spolehlivého, činorodého, všímavého mladého muže, který vždy bez problémů splní zadaný úkol. Milan Purkyně byl pohledný mládenec, svým způsobem ne nepodobný otci Karasovi, jenž vzhledem k tomu, že znal povahu a všemožné antipatie šéfa oddělení, před kolegy úzkostlivě tajil pravou povahu svého soukromého života: zatímco se část kolegů domnívala, že je starý mládenec, a druhá, že stále bydlí s maminkou, díky níž má vždy tak pečlivě vyžehlenou uniformu či košile, vyžadují-li úkoly civilní oděv (kterému ostatně Marie vždy dávala přednost), on ve skutečnosti žil v partnerském vztahu s jedním gymnaziálním profesorem. Marie po jeho soukromí nepátrala; jednak proto, že byla bytostně přesvědčená, že jí po tom nic není, jednak proto, že respektovala spíše mlčenlivou povahu toho pohledného a upraveného mládence vedle sebe.
 
 Aby jim cesta lépe ubíhala, pustil strážmistr Purkyně v autě rádio. Právě skončily zprávy. Rádio, hrající jen osvědčené české hity, aby snad posluchače nedeprimovalo kontaktem s cizími jazyky, nasadilo tklivou folkovou píseň o muži, který si pokazil celý život a jehož postihly typicky mužské nezdary toho typu, že zatímco poctivě vykonával dvouletou prezenční vojenskou službu, opustila jej dívka a on z toho byl v depresi. Strážmistr Purkyně zareagoval hned na první akordy kytarového doprovodu. Zatímco si radostně pobroukával spolu se zpěvákem, Marie píseň poslouchala se vzrůstajícím údivem mísícím se se znechucením. Aby snad posluchač netápal, píseň měla úderný refrén, k němuž se jako sbor přidal (o něco víc nahlas) i šoférující strážmistr: „Máš svůj svět a ten se ti hroutí…“
@@ -630,8 +616,6 @@ Pět vteřin refrénu a vrčení motoru, pak to strážmistr Purkyně schrousta
 „Nechte to být,“ řekla Marie a sama vypnula rádio.
 
 ## XIII.
-
-  
 
 O čtvrt hodiny později už Marie zasvětila dychtivého Pavla Edel­weisse do pozoruhodného zvratu v celém případu souvisejícím s velmi specifickým vztahem pana faráře k zavražděné. Pavel Edelweiss uznale hvízdl. Na to poznamenal, že v těch několika, vlastně pěti štěpánovských domácnostech v nejbližším okolí kostela o milostném životě oblíbeného kněze neměly zdejší babky ani ponětí.
 
@@ -686,8 +670,6 @@ Pavel se zasmál. „To je teda romantika! Moje tchyně zrovna dočetla _Ptáky 
 „Až potom,“ odbyla jej Marie a vzala za kliku.
 
 ## XIV.
-
-  
 
 Prostor v hospodě nevyplňoval vzduch, ale chuchvalce hustého šedého dýmu. A nic s tím nenadělala ani dvě otevřená okna v rohu. Jasné říjnové slunce tu zešedivělo, osazenstvo vrhalo nazelenalé stíny na polité ubrusy a popelníky plné nedopalků. Za pípou vedle vstupních dveří se s rukama založenýma na prsou tyčil hospodský jako rázovitá figurka z filmu pro pamětníky, gigantické břicho mu obepínala červená zástěra s logem pivovaru. Půlka stolu byla obsazena kunčafty, jejich skelné pohledy a nestabilní malátnost svědčily o tom, že otvírací hodinu místní restaurace poctivě dodržují.
 
@@ -877,8 +859,6 @@ Edelweiss se rozesmál. „Co bude teď?“
 
 ## XV.
 
-  
-
 Teď před nimi stál člověk zmožený bolestí a žalem. Oči měl zarudlé, vlasy rozcuchané. V domácím oděvu, ve volných šedých kalhotách a třepícím se svetru vypadal zanedbaně a zničeně – tak jak byla za ta léta Marie zvyklá vídat blízké oběti zločinů. Otec Karas je mlčky pustil dál.
 
 „Pane faráři,“ začala Marie jemně, „zármutek je nejhorší forma bolesti. Mohla bych vám dát kontakt na psychologickou pomoc? Psycho­log, který s námi spolupracuje, by se vám mohl okamžitě věnovat.“
@@ -1016,8 +996,6 @@ Když došli k autu, Marie se prudce otočila na Edelweisse: „Skutečně nev�
 „Pitomost!“ Marie nasedla, práskla dveřmi od auta a celou cestu do Olomouce seděla mlčky, pohroužená do myšlenek.
 
 ## XVI.
-
-  
 
 Richard Fořt měl televizi zapnutou jen jako kulisu. Seděl doma ve svém staromládeneckém panelákovém kutlochu, jenž byt připomínal jen okrajově. Z reportáže v hlavním večerním zpravodajství uběhlo už asi pět sekund, když zbystřil pozornost. Kolem reportérovy kamery přešel Karel Karas, farář, v jehož kostele našli údajně rituálně zavražděnou dívku.
 

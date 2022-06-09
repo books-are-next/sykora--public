@@ -5,8 +5,6 @@ contentType: prose
 
 ## LXIX.
 
-  
-
 Sešli se v kavárně na Horním náměstí. Karel Karas přišel o tři čtvrtě hodiny dřív. Usadil se u stolu u velkého okna a pozoroval, jak na město padá listopadový večer. Pršelo. Lidé spěchali pod deštníky přes náměstí a mokré dlažební kostky odrážely jejich stíny.
 
 Bývalého kněze už přešel žal a zármutek; vlastně jej samotného udivilo, že bolest odezněla tak rychle. Byly dny, kdy si na Veroniku ani nevzpomněl. Život mu plynul v jednotvárné prázdnotě – na statku svých rodičů se potácel od ničeho k ničemu, nejsa s to se rozhodnout, co bude dál, čím se bude živit, kam bude jeho život směřovat. Spíš jako by se propadal do stále hlubší apatie, k čemuž patřilo i to, že Veroničin obraz v jeho mysli byl den ode dne bledší.
@@ -82,8 +80,6 @@ Karel Karas si objednal další kávu, k tomu zákusek a minerálku. Z aktovk
 Servírka donesla věci, které si objednal. Chopil se zákusku a pohled mu přitom padl na vizitku od Marie Výrové. Dobře, proč ne, napadlo ho, třeba má Výrová pravdu a on je opravdu zralý na to, aby mu někdo pomohl. Podíval se na hodinky; tři čtvrtě na pět – ještě by nemuselo být tak pozdě. Vylovil z kapsy mobil a vyťukal číslo.
 
 ## LXX.
-
-  
 
 O týden později vyhledala Marii Výrovou manželka obecního strážníka Nemravy. Doprovázel ji štěpánovský starosta Liška. Marie se plna rozpaků snažila paní Nemravové vysvětlit, že skutečnost, že je strážník Nemrava veden jako pohřešovaný, ještě neznamená, že je den co den nasazen tým policistů k tomu, aby ho našli. Ve skutečnosti pátrání po Josefu Nemravovi skončilo ani ne po týdnu. Náčelník musel muže nasadit na neodkladné úkoly; a to, že po Nemravovi nebylo nikde ani stopy, Marii jen utvrzovalo v tom, že je mrtvý. Jeho potenciální vrah zarytě odmítal připustit, že by se se štěpánovským strážníkem onu noc vůbec setkal. Ale paní Nemravová byla už smířená; přišla kvůli něčemu jinému.
 
