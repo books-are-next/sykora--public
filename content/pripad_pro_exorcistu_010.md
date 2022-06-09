@@ -5,8 +5,6 @@ contentType: prose
 
 ## XXIX.
 
-  
-
 „Jak se ti líbil film?“ zeptal se v sobotu ráno Pavel Edelweiss své mladší kolegyně. Už byl v kanceláři, když dorazila – bledá, unavená, nenalíčená, s kruhy pod očima.
 
 „Nejradši bych tě zabila,“ zasyčela Kristýna. Její líčení probdělé noci Edelweisse pobavilo. „Promiň,“ smál se. „To není škodolibost. Kdybych tušil, že tě to tak rozhodí…“
@@ -125,8 +123,6 @@ Uniformovaný policista vyprovodil Richarda Fořta ven. Ve výslechové místnos
 
 ## XXX.
 
-  
-
 Venku na ulici si Richard Fořt povolil uzel na kravatě a rozepnul si horní knoflíček u košile. Nechápal, co se děje. Včera na Karase poštval televizi, večer marně čekal u zpráv – myslel si, že taková bomba bude událostí dne – ale nic se nedělo. Netušil samozřejmě, že Marie Výrová měla s televizním redaktorem, jejž Fořt na Karase poštval, dlouhý telefonický rozhovor, který ukončily dva sliby – ze strany televizního redaktora o pozdržení veškerého dosud natočeného materiálu, ze strany Marie týkající se exkluzivního rozhovoru.
 
 Tak Fořt přitvrdil – očekával okamžitou, bezprostřední, bleskovou reakci, ale jednali s ním jako s nějakým póvlem, jako by jim bylo úplně jedno, co jim přišel říct, místo aby mu poděkovali, uznale ho poplácali po zádech nebo jakkoliv přiznali, že je to jeho výpověď, co jim pomůže najít pachatele a hlavně ho usvědčit.
@@ -136,8 +132,6 @@ Tak Fořt přitvrdil – očekával okamžitou, bezprostřední, bleskovou reak
 Poslední dobou se mu nic nedaří. Každou chvíli jeho plány něco zhatilo a na Richarda Fořta doléhala čím dál větší frustrace. Zmařené plány, neuskutečněné záměry, nápady, které nelze dotáhnout do konce. Které nešly dotáhnout do konce. Kterým bylo zabráněno, aby je převedl v činy. Ale on přesně ví, kdy to začalo a kdo za tím vším stojí. Na frustraci a zklamání nejlépe zabírá řádný rozhodný čin. Jak tak Richard Fořt kráčel rušnou širokou třídou směřující od centra města k hlavnímu nádraží, musel uznat, že v poslední době moc těch zásadních činů nejen neuskutečňoval, ale ani nepřipravoval. Ale tohle všechno teď skončí. Dobře věděl, kdo za všechna ta zklamání, neúspěchy a frustrace může, kdo má hlavní vinu na tom, že jeho život je poslední dobou tak neuspokojivý, vyprázdněný, bez směřování. Náhle spatřil cíl své cesty. Nebylo to hlavní nádraží, které svým dopravním ruchem vévodilo konci ulice, bylo to celkové směřování existence, to, k čemu musí dospět. Musí obhájit svou čest. A musí zničit život tomu, kdo jej o vše připravil. Jeden člověk. Karel Karas.
 
 ## XXXI.
-
-  
 
 Přesně o půl desáté večer Kristýna Horová v kanceláři vytiskla poslední list a vložila jej do tuhé modré papírové složky nadepsané _Richard Fořt_ – splnění úkolu na dnešní odpoledne, prověření toho, co jim člověk, jehož jméno složka nesla, navykládal. Velká Sova se zítra bude divit. Chtělo se jí strašně spát, ale nechtělo se jí jít domů. Po dnešní hrůzné noci se její byt stal místem nejen osamělým a prázdným, ale i jaksi divně hrůzostrašným a nehostinným. Chvíli jen tak seděla před vypnutým počítačem a sbírala síly a kuráž. Pak ale rázně vstala: Je velká holka, musí se se strachem poprat. Žádní duchové, žádný Satan. Ze skříně poltergeist nevyleze, i když jedna z jejích kamarádek si myslí pravý opak a vždy před spaním překontroluje, zdali má všechny skříně, skříňky a komody pečlivě uzavřené. Vzpomněla si na ni a zasmála se. Ona taková poťáplina není. Vypnula služební počítač, sbalila si kabelku, pozhasínala světla, zamkla kancelář a vydala se domů.
 

@@ -6,8 +6,6 @@ contentType: prose
 ## I.  
 (čtvrtek 3. září)
 
-  
-
 Jedenatřicáté narozeniny oslavil Richard Fořt teprve na jaře, ale každý mu hádal aspoň o deset patnáct let víc. Typově Richard Fořt patřil k té podivné skupině mužů, jimž se jakýmsi danajským darem přírody dařilo vždy a za všech okolností vypadat sešle. Fořt s tím nebojoval, svůj ošuntělý zevnějšek nikterak nezveleboval, a díval-li se do zrcadla, což se stávalo při každém nepravidelném holení, činil tak vždy lhostejně a rozhodně ne z důvodů estetických. Byl hubený až k asketické vyzáblosti, vysoký, s delšími šedými vlasy. Ten den si jako obvykle oblékl své černé džíny, šedé triko, sešlou modrou šusťákovou bundu a přes rameno si přehodil odřenou hnědou aktovku, která dobře ladila s hnědými sešlapanými polobotkami. Když mu sekretářka Akademického nakladatelství přišla otevřít, na zlomek sekundy si myslela, že před ní stojí bezdomovec.
 
 Richard Fořt měl nepříjemný zvyk mluvit tiše. Na kurzu aserti­vity, který si na jaře nadělil k narozeninám, se jej lektor, jímž Fořt od první chvíle hluboce pohrdal pro jeho barevnou kravatu a profesionálně šťastný úsměv, snažil přesvědčit, že na lidi bude lépe působit, bude-li mluvit nahlas a při hovoru se dívat do očí. Fořt si jeho radu k srdci nevzal, byť kurz dochodil, aby aspoň svou fyzickou přítomností zhodnotil vynaložené kurzovné. Než jej sekretářka uvedla dovnitř, musel jí svým šeptavým hlasem dvakrát zopakovat, s kým má schůzku.
@@ -96,8 +94,6 @@ Hned při vstupu do knihkupectví vrazil u novinkového regálu do mileneckého
 
 ## II.
 
-  
-
 Vstup z Vinohradské ulice zavřeli kvůli stavebním úpravám, takže Karel Karas musel obejít blok, aby se do Českého rozhlasu dostal zadem. Na město padal zářijový podvečer, na Karla Karase únava: dnes ale prožil jeden z nejkrásnějších dnů svého života, to si uvědomoval zcela jasně, intenzivně, zahlcen pocitem romantického štěstí. Usmál se. Jakýsi muž vycházel z budovy, otevřel mu dveře a Karas poděkoval. Celý den strávil s Veronikou. Do Prahy přijeli ranním pendolinem, chodili po památkách, společně, ruku v ruce, v objetí, společně všechny ty věci, které doma nemohli… Pocit závratného štěstí ho utvrdil, že jeho rozhodnutí bylo, je a bude správné, že odchod je nezbytný a nutný. Ve společných chvílích našli zálibu v tom plánovat si, jaké to bude, až konspirace skončí, až si _spolu_ vyjdou na procházku, na výlet, do kina, do restaurace, na koncert, budou se moci držet za ruku a nebudou se muset skrývat, přetvařovat, lhát. Spolu, spolu.
 
 Znovu se usmál. Recepční v rozlehlé vstupní hale na něj podezřívavě pohlédla. Hala byla rozčleněna přepážkou do výše pasu na dvě části. Menší část směrovala příchozí k turniketu s průchodem do budovy, větší část byla vyhrazena pro pohovku, na které seděl starší muž ve svetru a listoval nějakými papíry, pár křesel a konferenční stolek pro hosty a zejména pro recepční pult, jehož rozměrnost se zřejmě přizpůsobila gargantuovské ženě, která si příchozího zachmuřeně prohlížela. Za dva měsíce měl Karel Karas oslavit pětatřicáté narozeniny. Vypadal dobře, byť – zřejmě hlavně v důsledku citového pohnutí dnešního dne – jaksi roztržitě a potrhle. Na sobě měl džíny, košili, světle rezavý svetr, na něm tmavé sako a brašnu přes rameno. Kdesi uvnitř v něm se ukrýval pocit, že vztah k Veronice jen oddálil neodvratitelnou krizi středního věku; jenže Karel Karas neprožíval předčasnou druhou mízu, ale nejromantičtější vztah svého života, a to vše se spojovalo s pocitem, že konečně našel sám sebe a také vše ostatní, co hledal. Ačkoliv Veronika tvrdila, jak je nesmírně roztomilý, a trvala na tom, ať si své krátce střižené vlasy nečeše, protože klukovská rozcuchanost mu ještě přidává na sladkosti a přitažlivosti, Karel Karas tušil, že ostatní na něj pohlížejí jako na roztržitého poloblázna, nepraktického člověka, jako na potenciálního potížistu. A přesně tak se na něj dívala i recepční v budově Českého rozhlasu – ostražitě a vyčkávavě. Muž na pohovce se k němu také otočil – přelétl jej očima a zřejmě shledal, že Karel není ten, na koho čeká, a dál se věnoval svým papírům.
@@ -140,8 +136,6 @@ Prosklenými dveřmi vešel do haly kněz.
 
 ## III.
 
-  
-
 Vlak hučel, na výhybkách se třásl a v zatáčkách kymácel. Za okny se fialověla noc. Podařilo se jim najít prázdné kupé, zhasli v něm světlo. Karel Karas si sedl k oknu, Veronika mu položila hlavu do klína a nohy si natáhla přes volná sedadla. Prsty jí jezdil ve vlasech a namotával si pramínky na ukazováčky. Právě jí převyprávěl průběh předčasně ukončené rozhlasové debaty – jak se jeho názorový oponent v jednu chvíli zvedl a teatrálně opustil studio. Redaktor Havlíček nicméně i přesto rozhodl, že debata se odvysílá.
 
 Chvíli mlčeli, pak zas plánovali, co bude dál.
@@ -183,8 +177,6 @@ Ve vedlejším voze, zamčený na záchodě, prudce oddechoval Richard Fořt.
 ## IV.  
 (středa 16. září)
 
-  
-
 Jan Pánek seděl ve své pracovně a na monitoru počítače se pomocí myši snažil vyladit obraz. Černobílý záznam ukazoval poněkud roz­ostřenou ulici mírně se stáčející doleva; kamera na vše pohlížela z výšky a sem tam se v jejím zorném poli ukázala nejasná postava, která trhanými pohyby přešla přes cestu nebo dál pokračovala po chodníku, až zmizela ze záběru. V zatáčce stál oprýskaný dům bez předzahrádky, s vysokými vraty do dvora. Přes ulici kamera zabírala rozmlžený parčík. Jan Pánek kurzorem myši klikal na jednotlivé postavy na obrazovce, zastavoval záznam a snažil se obraz zvětšit a zaostřit, aby poznal tvář. Do záběru škubavě vjelo auto, překo­drcalo se zatáčkou a zase zmizelo. Pánek vrátil záznam zpět a pokusil se vyladit obraz tak, aby SPZ byla čitelná. V levém horním rohu obrazovky se v záběru objevila dívčí postava, zastavila se u velkých dřevěných vrat, rozhlédla se a vešla dovnitř. Pánek klikl myší, zastavil záznam a vrátil jej zpět. Klikl na postavičku a zvětšil ji. Něco naťukal na klávesnici a obraz se zaostřil. Pánek byl spokojený, že zařízení konečně začalo správně pracovat.
 
 Do pokoje vešla mladá žena, drobná blondýnka, oblečená jen do bílé pánské košile, která jí sahala až do půlky stehen.
@@ -209,8 +201,6 @@ Zvědavost zvítězila. Žena odložila hrnek na noční stolek a vyskočila z�
 
 ## V.  
 (neděle 27. září)
-
-  
 
 Nedělní polední mše skončila před deseti minutami. Kněz Stárek dle svého zvyku sledoval, jak se týden po týdnu řídnoucí skupinka věřících postupně a vzhledem k věku a zdravotnímu stavu přítomných i velmi pozvolna vydává k odchodu.
 

@@ -5,8 +5,6 @@ contentType: prose
 
 ## XLIII.
 
-  
-
 Pršelo, asfaltová silnice se leskla jako tulení hřbet. Šedivé nebe se tlačilo na město. Střecha protějšího domu se ztrácela v bezútěšném popelavém oparu. Všechno zšedlo, den byl zcela bez barev. Kristýna Horová si malou chvíli z okna prohlížela tu podzimní bezútěšnost; nejprve jen sledovala, jak její otec odjíždí do práce, ale pak zůstala u okna, protože nevěděla, co jiného by měla dělat. A aby taky nic jiného dělat nemusela.
 
 Otec ji z nemocnice přivezl domů před půl hodinou; mdle a nejspíš i nepřesvědčivě ho ujišťovala, že je v pořádku a že půjde spát. Krk jí svíral ortopedický límec; kvůli ortéze se pohybovala toporně a ztuhle. Sledem asociací si vybavila fotografie černošských krasavic s protaženými krky upnutými v krunýřovité kaskádě kovových kruhů ve starých ohmataných knihách Hanzelky a Zikmunda, které si tolikrát prohlížela v dětství.
@@ -16,8 +14,6 @@ Lehce se osprchovala a převlékla do pyžama. V posteli musela několikrát p
 Kristýnu roztřásla zima a už zas potřebovala na záchod. Šla se vyčurat a opět se zachumlala do peřin. Vyčerpávající únava volala po spánku, ale sotva zavřela oči, ten obraz byl zpět. Dlouhá chodba, obdélník světla, výhrůžná silueta. Kristýna vyskočila z postele a znovu se ztuhle potácela na záchod. Posadila se na mísu, vzala hlavu do dlaní a dala se do usedavého pláče.
 
 ## XLIV.
-
-  
 
 Dr. Anděl ve své pracovně zvedl hlavu od psaní pitevní zprávy a to, že ve dveřích vidí stát Pavla Edelweisse, jej vlastně ani nepřekvapilo.
 
@@ -71,8 +67,6 @@ Dr. Anděl ve své pracovně zvedl hlavu od psaní pitevní zprávy a to, že v
 
 ## XLV.
 
-  
-
 Marie Výrová spala dvanáct hodin. Když se kolem páté probudila, pro deštivé šero za oknem ložnice nemohla poznat, jestli ručičky na budíku ukazují ráno nebo večer, jestli se dívá na úsvit nebo soumrak. Když jí nastartoval mozek, došlo jí, že tma venku má být denní světlo. Spala intenzivně a bez přerušování; v noci si vzala prášek na spaní a ten ve spolupráci s únavou a vyčerpáním okamžitě zabral, přesto (anebo právě proto) se cítila nevyspalá a rozlámaná.
 
 Oblékla si župan a vyšla na balkon nadýchat se čerstvého vzduchu. Prudký vítr strhával ze stromů listí a honil je po ulicích. Liják, který ji zastihl ještě v Myslechovicích a který podle velkých louží musel trvat celý den, pomalu ustával a na obzoru mezi domy se už protrhávala oranžovo-modrá obloha.
@@ -81,18 +75,18 @@ V kuchyni si udělala kávu a vajíčka a zapnula mobil. Okamžitě začaly p
 
 Nejprve jí volala Horová, pak její otec, mezitím třikrát Edelweiss i sám Nejvyšší. A pak zase Kristýna. A zprávy:
 
-7:31 – Horova – Zkousela jsem volat. Jsem uz doma z nemocnice. Muzu si dneska vzit volno?
+_7:31 – Horova – Zkousela jsem volat. Jsem uz doma z nemocnice. Muzu si dneska vzit volno?_
 
-7:50 – Horova – Edl. rikal, ze jste doma. Dal mi volno, tak dneska neprijdu. Omlouvam se.
+_7:50 – Horova – Edl. rikal, ze jste doma. Dal mi volno, tak dneska neprijdu. Omlouvam se._
 
-9:01 – Edelweiss – Predbezna zprava od Andela: Krist. Forta nezastrelila.
+_9:01 – Edelweiss – Predbezna zprava od Andela: Krist. Forta nezastrelila._
 
-9:17 – Otec Karas – Pani komisarko, nevim, jestli mohu volat. Rad bych s vami mluvil, jestli je to mozne. Dekuji.
+_9:17 – Otec Karas – Pani komisarko, nevim, jestli mohu volat. Rad bych s vami mluvil, jestli je to mozne. Dekuji._
 
-11:43 – Edelweiss – Zbran, kterou mel Fort, patrila Pacakovi. Mela jste pravdu.
+_11:43 – Edelweiss – Zbran, kterou mel Fort, patrila Pacakovi. Mela jste pravdu._
 
-13:21 – Edelweiss – Bohuzel, stary Karas zemrel. Uz se neprobral.
+_13:21 – Edelweiss – Bohuzel, stary Karas zemrel. Uz se neprobral._
 
-15:35 – Horova – Zkousela jsem volat. Nevim, co mam delat. Edl. ale rikal, ze jsem ho nezastrelila ja. Rikal, ze zadne vysetrovani a vse je pro me OK. Ale ja nevim, muzu zitra prijit do prace?
+_15:35 – Horova – Zkousela jsem volat. Nevim, co mam delat. Edl. ale rikal, ze jsem ho nezastrelila ja. Rikal, ze zadne vysetrovani a vse je pro me OK. Ale ja nevim, muzu zitra prijit do prace?_
 
-15:55 – Edelweiss – Je tady bozi dopusteni. Vsichni na tom delame cely den, ale vůbec to nevypada, ze by Fort byl nas clovek. Hrozny zmatek. Nejvyssi s nacelnikem chteji pripad uzavrit, ale mne se to fakt nezda.
+_15:55 – Edelweiss – Je tady bozi dopusteni. Vsichni na tom delame cely den, ale vůbec to nevypada, ze by Fort byl nas clovek. Hrozny zmatek. Nejvyssi s nacelnikem chteji pripad uzavrit, ale mne se to fakt nezda._

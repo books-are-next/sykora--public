@@ -5,8 +5,6 @@ contentType: prose
 
 ## XXXIII.
 
-  
-
 Když Marie v neděli večer procházela informace o katedře zoologie na olomoucké univerzitě, které jí připravila Kristýna, zjistila, že ji vede člověk se jménem přímo předurčeným k biologickému výzkumu, profesor Květoslav Zajíc!
 
 V deset hodin ráno ji sekretářka uvedla do pracovny vedoucího katedry zoologie. Kutloch zaskládaný knihami s hučícím stolním počítačem a stěnami polepenými starožitnými výukovými postery. Vývoj embryí velryb, evoluce člověka a pár dalších, které nebyla s to identifikovat. Čekala, že Květoslav Zajíc bude mít velké uši a dva gigantické řezáky trčící z úst a přikrývající spodní ret, takže ji jeho zcela všední zjev v podstatě zklamal. Plešatý šedesátník, malý, s tlustý­mi brýlemi, vychrtlý až hanba. Byl to jeden z těch okamžiků, kdy si Marie uvědomovala, jak strašně moc ji její práce baví – poznávat neopakovatelné lidi a mít dostatek zkušeností a dobré oko k tomu, odhadnout, co jsou zač. Profesor Zajíc byl očividně starý mládenec. Nebo se jim doma pokazila pračka. Utrácet peníze za nákup oblečení jistotně považoval za holý nesmysl. Manšestráky s koleny vyšoupanými do hladka, podivný strakatý svetr, možná kdysi barevný, navozující představu hippiesáckého retra. Když k ní přistoupil blíž, aby jí podal ruku, napadlo Marii, že zřejmě ani nezaznamenal vynález pánských deodorantů. A když na ni promluvil, zdálo se, že k zubní pastě má stejně vřelý vztah jako k čistému oblečení. Anebo snídal tři stroužky česneku.
@@ -136,8 +134,6 @@ Sekretářka vyzvala Marii, ať se posadí – křesla v sekretariátě vypada
 Vtom se otevřely dveře a sekretářka uvedla dr. Pánka. Nic se nevyjasnilo. Odpovědi na otázky se zase tryskem vzdalovaly. Tohoto člověka Marie ještě nikdy neviděla. Ve Štěpánově před farou mluvila s někým jiným.
 
 ## XXXIV.
-
-  
 
 „Vy jste doktor Jiří Pánek?“
 
@@ -371,8 +367,6 @@ Marie se rozloučila a odešla.
 
 ## XXXV.
 
-  
-
 Než se Marie vydala ještě jednou za vedoucím katedry, profesorem Květoslavem Zajícem, zavolala Kristýně, ať proklepne Jiřího Pánka. Mluvila tiše, na dlouhé prázdné chodbě se její slova přesto rozléhala a odrážela se od vitrín se zoologickými exponáty a preparáty. Pak se vydala k vedoucímu katedry. Od sekretářky si vyžádala Pánkovu adre­su a zeptala se, jestli jezdívá do školy autem. Sekretářka jí z okna ukázala stříbrný Citroën C8.
 
 „Nemůže se stát, že by nechal vůz stát tady a šel domů pěšky nebo jel tramvají?“
@@ -557,8 +551,6 @@ Pánek zakroutil hlavou. „Jak říkám. Až doteď jsem o existenci někoho t
 
 ## XXXVI.
 
-  
-
 „Náš hlavní podezřelý…,“ a Marie napsala fixem na bílou tabuli jméno, „JIŘÍ PÁNEK.“
 
 Celý tým se sešel v zasedačce na pravidelnou poradu. Vedle Marie u okna stál sám Nejvyšší s rukama složenýma na prsou, opřený o parapet.
@@ -657,8 +649,6 @@ Marie jen pokrčila rameny.
 
 ## XXXVII.
 
-  
-
 Marie ve své kanceláři zvolna propadala depresi. „Je v tom zmatek,“ ukončila polední poradu – a teď seděla u sebe a marně se snažila najít v tom zmatku nějaký řád. Dokonce ani na Boba Dylana neměla v tu chvíli náladu, což samo o sobě svědčilo o počínající krizi.
 
 Za oknem se honily říjnové mraky, střídavě stínily slunce a prudké poryvy větru zvedaly čerstvě spadané listí až do výše prvního patra. Přemýšlela, jestli by něčemu pomohlo, kdyby dopoledne víc dotírala na bratry Pánkovy… Asi ne. Pokud v tom skutečně mají prsty, musí nejprve sehnat co nejvíc informací. Odkrýt karty už nyní by vedlo k blamáži. Nepochybovala o tom, že Nejvyšší by se do toho se svou buldozéří jemností rád pustil a podrobil by oba bratry inkvizičnímu výslechu. Marie však o vhodnosti takového postupu silně pochybovala.
@@ -739,8 +729,6 @@ Edelweiss vzdychl. „Víte, já dnes – slíbil jsem manželce, že…“
 
 ## XXXVIII.
 
-  
-
 Tou dobou Kodet s Purkyněm podnikli už třetí pokus sehnat Richarda Fořta a předvést ho k výslechu. Panelákové sídliště v Holici, okrajové části Olomouce, patřilo k nejméně atraktivním částem města. Odříznuté železniční tratí na Přerov a několika průmyslovými podniky od zbytku města žilo si jakoby vlastním životem – paneláky stály spíše v poli než ve městě. Radnice sice centrální prostor obytné zóny Holic vkusně zrekonstruovala, ale odříznutost od zbytku Olomouce spolu s faktem, že tudy vedl frekventovaný silniční tah, kvůli absenci severního obchvatu přeplněný kamiony, ze čtvrti dělaly nejméně atraktivní obytnou zónu v celém městě.
 
 Panelák, v němž měl Richard Fořt přebývat, ale kde se už od soboty nenacházel, stál na samém okraji sídliště, vchody a čelní stranou otočený do holého, nedávno zoraného pole. Z domu zrovna vycházela dívčina s yorkshirem, tak Kodet s Purkyněm proklouzli dovnitř a výtahem vyjeli do pátého patra. „Dr. Richard Fořt,“ hlásila jmenovka na dveřích hrdě, byť – jak už věděli – zcela nepravdivě. Podesta byla udržovaná, na mezipatře u okna dokonce živořily nějaké květiny – obyvatelé všech tří bytů na patře prokazatelně všemi silami vzdorovali neodvratnému chátrání čtvrt století starého paneláku. Zazvonili na zašedlý zvonek. Za dveřmi to hlasitě zadrnčelo. Jinak nic. Zazvonili znovu. Nic. Kodet rázně zabušil na dveře. V reakci na to na druhé straně chodby za jejich zády vykoukla škvírou ve dveřích hlava zvědavé důchodkyně. Byla to drobná ženuška s obrovskými brýlemi, krátkými světlými vlasy, v zelené mikině a teplácích.
@@ -800,8 +788,6 @@ Když venku nasedali do vozu, Kodet rezignovaně vzdychl: „A takováhle kreat
 Kodet cosi zabručel a nastartoval auto.
 
 ## XXXIX.
-
-  
 
 Policejní oktávie uháněla směrem na Litovel. O Myslechovicích Kristýna Horová v životě neslyšela, naštěstí si v garážích vypůjčila vůz vybavený GPS. Marie na sedadle spolujezdce se však k přístroji stavěla skepticky, takže zadaný směr překontrolovala v autoatlasu a v plánku, který jí e-mailem poslal Karel Karas. Slunce už zapadlo a výpadovku ozařovala světla z nedalekého obchodního centra s multikinem.
 
@@ -886,8 +872,6 @@ Marie se usmála. „Jo, říkalas mi _tetóó._“
 „Moc děkuju, _tetóó_.“
 
 ## XL.
-
-  
 
 Najít statek rodiny Karasů nebylo díky plánku od Karla Karase obtížné. Vesnička Myslechovice se od ostatních vesnic v banální hanácké rovině v prostoru mezi Olomoucí, Litovlí a Prostějovem liší jen tím, že na jejím okraji se zvedá skupinka nevysokých zalesněných kopečků. Propletly se obcí a za pomoci instrukcí od mladíka zevlujícího před místní hospodou záhy a bez problémů dojely ke statku za vesnicí. Přivítala je velká dřevěná vrata navazující na vysokou cihlovou zeď, která po pěti metrech z každé strany přecházela v hospodářské budovy. Ve zdi vedle vrat zbudovali majitelé statku menší vchodové dveře se zvonkem a domovním intercomem.
 
@@ -999,8 +983,6 @@ V obývacím pokoji seděl v gigantickém křesle patriarcha rodiny, starý se
 
 ## XLI.
 
-  
-
 Fena německého ovčáka přezdívaná Stará Barča už měla deset let. Na psa jejího plemene, který celý život prožil mimo gaučové pohodlí obvyklé pro městské psy, to byl úctyhodný věk. Každá noc prožitá v rosou zmáčené trávě letní zahrady, každý podzim na dece ve stodole, každá zima v chodbě domu, kdy zapomněla na čalouněný pelech a stočila se do klubíčka na studeném betonu u dveří, všechny tyhle noci a dny nepřetržité psí služby se podepsaly na jejích kloubech. Prožila aktivní život; nejde o to, že by svou existencí potvrzovala nesmyslnou pověru, že pes patří ven a ne do bytu – kdyby se válela na gauči nebo v teple na koberci, určitě by byla zdravější a lépe vyspaná –, prostě jen byla spokojená, jak může být spokojený pes, který se nenudí, má dostatek žrádla a citově nestrádá; na obvyklého venkovského psa tedy Stará Barča prožila nadstandard. Teď se jí ale špatně chodilo, klouby zadních tlap po delším ležení vždy ztuhly a ona je jen obtížně rozhýbávala, navíc ten výrůstek pod žebry, který Václav Karas považoval za tukovou bulku, tukovou bulkou nebyl, ale vzhledem k událostem dnešní noci se už nestačí proměnit v něco mnohem zhoubnějšího… Hlava jí celá zšedivěla a místa, kde si v létě vykousala klíšťata, už chlupy zarůstala dost pomalu, takže na bocích a ve slabinách měla už přes měsíc několik lysin. Poté, co Bára překontrolovala návštěvu, odbelhala se na své obvyklé místo do stodoly. Očichala prázdnou misku – v jejím věku se začaly jídlem sublimovat jiné, už utlumené potřeby – krátce se napila, naposledy ve svém životě, prohlídla si svůj pelech, asi šest na sobě naskládaných starých dek, vlezla si na ně, dvakrát se otočila do kolečka, než našla to správné místo, a smotala se do klubíčka. Na chvíli usnula, ve spánku se jí slabě třásla pravá zadní noha. Pak se se škubnutím probudila: pes, který celý život hlídá, má slabé spaní. I přes přívětivou a optimistickou povahu byla Stará Barča dobrá hlídačka. Ostražitá, pečlivá; v posledním roce sice zlenivěla, ale zvědavost ji stejně vždy přinutila se zvednout a zjistit, co se děje. Stejně tak teď – cosi zaslechla: zvuk, který nemohla identifikovat. Nebylo to bušení na vrata, ani zvonek. Ani žádné zvíře snažící se vloudit na její území. Ležela v pelechu v poloze sfingy, pohled upřený do otevřených vrat stodoly, všechny smysly napjaté… Pak vstala, dlouze a pomalu, a vydala se do zahrady. V tu chvíli zapomněla na všechnu bolest v kloubech, belhala se, ale šla energicky a v podstatě i svižně. Ve tmě toho moc neviděla, byť rozsvícená okna domu ozařovala velkou část cesty k zahradě. Uši postavené, čenich nasával vzduch a všechny vjemy ji hnaly do zahrady. Pak to uslyšela zase a už nabrala správný směr. V sadu znala každý strom a každý keř a teď šla na jistotu.
 
 A pak zahlédla pohyb. Nasála vzduch, šedivý čenich se jí chvěl. Přikrčila se a s napjatým krkem a hlavou nataženou kupředu chvátala trávou k místu, kde rozpoznala ten podezřelý pohyb. Ano, byl tam. Někdo tam byl. Někdo, kdo o ní nevěděl a šel jí vstříc. Temná silueta se zvětšovala, měnila barvy, jak se kradla mezi stromy, střídavě v jejich stínu a v matném světle měsíce vykukujícího zpoza šedých chuchvalců říjnových mraků. Zastavila se, aby zkoordinovala smysly a připravila se na střet. Teď už to nebyla ta vlídná stará fena, teď byla v akci a jen hlas, vlastně hlasy jejích pánů by ji dokázaly zastavit. Pes samozřejmě neví, co je to povinnost. Ona ale věděla, co ji naučili, a byla dost inteligentní, aby chápala, co se od ní očekává. Co se od ní očekává v takovéto situaci. Co se od ní očekává, když kluci přelezou plot a chtějí krást meruňky nebo jablka. Když jim chtějí plenit maliníky. Tahle situace tu byla tolikrát a ona vzrušeně, ale tajíc dech, plíživě klusala k vetřelci, aby mu jasně dala najevo, kdo je tady pánem. Ne ona samozřejmě, ale _její_ pán. Ten ji naučil hnát vetřelce až za plot, ale neútočit. Ten ji naučil bránit se. Schytala už pár ošklivých ran, jednou na ni vytáhli i nůž, ale ona dokázala své šrámy náležitě oplatit.
@@ -1008,8 +990,6 @@ A pak zahlédla pohyb. Nasála vzduch, šedivý čenich se jí chvěl. Přikrč
 Vetřelec se k ní blížil. Zastavila se a dvě vteřiny ho pozorovala. On o ní nevěděl, ale zřejmě tušil, že by tu někdo jako ona mohl být. Byl připravený – a na jeho připravenost nebyla připravená Stará Barča. Vetřelec ji uviděl asi pět metrů přímo před sebou. Bára se vzpřímila, naježila a otevřela obrovskou tlamu a vycenila žluté zuby. Vetřelec se nelekl. Zvedl proti ní pravou ruku, a než se Bára stačila hnout, ozvala se rána. Kdyby nebyla okamžitě mrtvá – rychle, na místě, než si stačila cokoliv uvědomit, kromě vteřinové bolesti, než jí kulka proletěla mozkem a vzadu zátylkem ven –, ošklivě a bolestivě by se uhodila o kmen stromu, na který ji výstřel odhodil.
 
 ## XLII.
-
-  
 
 „Co to bylo?“ zeptal se ve velkém obývacím pokoji Václav Karas. Jeho syn se podíval na Marii Výrovou a ta si vyměnila pohled s Kristýnou Horovou. Obě dobře poznaly, o jaký zvuk šlo.
 
