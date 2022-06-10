@@ -3,6 +3,8 @@ title: DEN ŠESTÝ úterý 6\. října
 contentType: prose
 ---
 
+<section>
+
 ## XLIII.
 
 Pršelo, asfaltová silnice se leskla jako tulení hřbet. Šedivé nebe se tlačilo na město. Střecha protějšího domu se ztrácela v bezútěšném popelavém oparu. Všechno zšedlo, den byl zcela bez barev. Kristýna Horová si malou chvíli z okna prohlížela tu podzimní bezútěšnost; nejprve jen sledovala, jak její otec odjíždí do práce, ale pak zůstala u okna, protože nevěděla, co jiného by měla dělat. A aby taky nic jiného dělat nemusela.
@@ -90,3 +92,5 @@ _13:21 – Edelweiss – Bohuzel, stary Karas zemrel. Uz se neprobral._
 _15:35 – Horova – Zkousela jsem volat. Nevim, co mam delat. Edl. ale rikal, ze jsem ho nezastrelila ja. Rikal, ze zadne vysetrovani a vse je pro me OK. Ale ja nevim, muzu zitra prijit do prace?_
 
 _15:55 – Edelweiss – Je tady bozi dopusteni. Vsichni na tom delame cely den, ale vůbec to nevypada, ze by Fort byl nas clovek. Hrozny zmatek. Nejvyssi s nacelnikem chteji pripad uzavrit, ale mne se to fakt nezda._
+
+</section>

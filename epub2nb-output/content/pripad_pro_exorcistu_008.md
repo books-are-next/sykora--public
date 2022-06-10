@@ -3,6 +3,8 @@ title: DEN PRVNÍ čtvrtek 1\. října
 contentType: prose
 ---
 
+<section>
+
 ## VI.
 
 K vesnici přijeli se zapnutým majákem, ale jakmile vjeli mezi domky, musel praporčík Kodet spustit i sirénu. Nic jim to však nebylo platné. Po celé šířce silnice jely v dvoj- či trojstupu ošátkované babky na prehistorických bicyklech a kličkovaly kolem zaparkovaných dvacet let starých škodovek. Jiné škodovky je zas předjížděly a na chodnících před domy pokuřovali vypasení strejcové v teplácích, na parapetech přízemních oken měli postavené neodmyslitelné lahváče a debatovali – nejspíš o celém tom rozruchu kolem nebo už o šestém služebním policejním voze, který se ploužil kolem a zoufale se snažil zrychlit. Krásné říjnové dopoledne na vsi, vlahé počasí, sluníčko svítí, důchodci a nezaměstnaní. Majorka JUDr. Marie Výrová z Úřadu služby kriminální policie a vyšetřování Policie ČR v Olomouci si to vše prohlížela ze sedadla spolujezdkyně: Tak tohle je Štěpánov.
@@ -265,6 +267,10 @@ Marie přitakala.
 
 „Už jsem ostatně byl na cestě, ale tenhle rozruch mě zdržel. Zvědavost zvítězila.“ Znovu se usmál. Původní nervozitu vystřídala nesympatická žoviálnost. Nebo že by to jen hrál? napadlo Marii.
 
+</section>
+
+<section>
+
 Před kostelem mezitím vyvstal další problém. Otec Stárek trval na své přítomnosti u toho, jak bude otec Karas podávat svědectví, a také že neodjedou policejním vozem, ale autem vlastním, kterým před půlhodinou přijeli z Olomouce. Nasupený Vitouš byl proti, Marie však neviděla důvod k tomu, proč nesouhlasit, takže nakonec se podařilo přání kněží prosadit.
 
 Faráři nasedli do zelené felicie, Marie s Viktorem Vitoušem do služební oktávie. Edelweiss dostal za úkol dohlédnout na práce na místě činu a řídit výslechy místních. Pohřebáci zrovna z kostela vynášeli tělo mrtvé dívky ve velkém černém pytli, když Vitouš vztekle práskl dveřmi vozu.
@@ -274,6 +280,10 @@ Faráři nasedli do zelené felicie, Marie s Viktorem Vitoušem do služební o
 Vůz se rozjel a Vitouš ve zpětném zrcátku zkontroloval, že zelená felicie jede za nimi.
 
 „Jak se tam v kostele objímali!“ pokračoval Vitouš.
+
+</section>
+
+<section>
 
 Na policejní stanici uvedli oba kněze do výslechové místnosti a Vitouš se vzdálil s tím, že rozhovor začne za patnáct minut. Marie si šla do automatu pro kávu a pak vstoupila do místnosti k oběma kněžím. Nejvyšší tam ještě nebyl.
 
@@ -379,6 +389,10 @@ Pavel Edelweiss byl o patnáct let mladší než Marie Výrová a společně p
 
 Obdobně odmítala tykání se svými kolegy. Edelweissovi vždy zdvořile vykala a on sám za chvíli pochopil, že tím vyjadřuje nejen svůj odstup, ale zejména – nevěděl, jak to říct, ale lepší slovo než _úcta_ jej nenapadlo. A to platilo i pro něj – nedokázal si po určité době představit, že by svou šéfovou, přezdívanou všeobecně Velká Sova, oslovoval jinak než jako paní doktorku – a to především proto, že ji měl velmi rád. Vlastně jediní, komu tykala, byl šéf útvaru, dávný spolužák Viktor Vitouš, zvaný Nejvyšší, a pak elévka na oddělení Kristýna Horová, dcera krajského státního zástupce, kterou Marie znala už od dětství. Kupodivu Horová se okamžitě přizpůsobila poměrům a hned po nástupu začala „tetě Marii“ také vykat.
 
+</section>
+
+<section>
+
 Faru postavili přes cestu, naproti kostelu. Podél hřbitovní zdi vede vyasfaltovaná cesta do polí. Vpravo od kostela, za pěšinou do polí, je škola, naproti škole, přes cestu, vpravo od fary sokolovna, což je ušlechtilý název pro jednu z místních hospod, a vedle ní dvou­patrové obchodní středisko z osmdesátých let se samo­obsluhou v přízemí. Nalevo od kostela stojí pár domků a křižovatce s odboč­kou na Liboš, připojenou obec, od Štěpánova oddělenou jen potokem, dominuje místní kino s bankomatem. Za křižovatkou vlevo v zatáčce je místní _pošta_, odkud se dvěma třetinám místních doručuje důchod či podpora v nezaměstnanosti či jiné sociální dávky. Tyto vymoženosti moderního sociálního státu umožňují valné části užívat zaslouženého i nezaslouženého odpočinku, nechodit do práce, být doma a pěstovat brambory a chovat králíky a drůbež.
 
 Pro vyšetřovací tým to mělo tu výhodu, že se obec hemžila potenciálními svědky, kteří mohli něco vidět, něco slyšet, nebo obojí, a kteří byli doma, když policisté obcházeli domy, a tudíž jim mohli sdělit, zdali něco slyšeli či viděli nebo oboje. To se ovšem – oproti všem očekáváním – nestalo, neboť ti, kdo bděli, byli většinou díky třem místním hospodám ve stavu, jenž hodnotu potenciálního svědectví dosti znehodnocoval, a ti, kdo v noc zločinu byli ve stavu svědecky hodnověrnějším, buď spali, nebo sledovali televizi, což informačně vyšlo stejně. Nicméně přesto bylo třeba – i když se záhy vyjevila nesmyslnost daného počínání – obejít domy v obci a jejich obyvatelů se na případné svědectví zeptat a učinit o tom zápis. Pavel Edelweiss rozdělil úkoly a čísla popisná skupině uniformovaných policistů, a aby šel podřízeným příkladem, sám si jeden okrsek též přidělil. Toto rozhodnutí, jakkoliv vnějškově potvrzovalo Edelweissův smysl pro efektivní řízení a spravedlivé rozdělování úkolů, mělo neblahé důsledky pro sousedské vztahy v obci, neboť velká většina domorodých byla vyslechnuta uniformovanými policisty a malá část policistou v civilu, což bylo vzájemně registrováno. Obec se následně rozdělila na dva nestejně početné tábory, z nichž ten vyslýchaný policistou v civilu, tedy Mgr. Edelweissem (jehož někteří dokonce považovali za náčelníka, neboť Marie jako žena byla coby vedoucí vyšetřovatelka genderově diskvalifikována, dokonce velmi schopného náčelníka, když tak zodpovědné funkce dosáhl tak mladý), sám sebe považoval za význačnější, když byl vyslýchán důležitou osobou, zatímco ti, které zpovídali uniformovaní policisté, tuto první skupinku považovali za podezřelejší, neboť za nimi poslali jen pouhé bezvýznamné poskoky, zatímco na ty první si posvítil sám náčelník, protože i zbytek obce měl tendenci považovat Mgr. Edelweisse za vyšší šarži.
@@ -462,6 +476,10 @@ Proti železné logice hanácké hospodyně nebylo úniku.
 Mezi Marií Výrovou a Viktorem Vitoušem vládl respekt, ale pracovat spolu by nemohli. Oba to věděli, oba s tím byli srozuměni a smířeni. Vitouš jako šéf oddělení všemu vládl ze své kanceláře, práci v terénu nechal ostatním. Vždy na začátku se seznámil s případem, rozdělil úlohy a pak nechal Marii Výrové jako své nejzdatnější vyšetřovatelce volné pole, byť její práci sledoval a prostřednictvím pravidelných porad i řídil. Šlo o standardní postup. Ale měl rád výslechy. Přímo je miloval a vychutnával si je. Metoda jeho práce byla přímo protikladná té Mariině. Zatímco ona postupně sbírala informace, ohledávala terén, vztahy, příčiny a motivy, Vitoušovi stačilo sebemenší podezření, aby viníka, ať už domnělého či skutečného, podrobil inkviziční proceduře svého vyšetřování. Mělo to své výsledky, samozřejmě pokud zrovna nešlápl zcela vedle a nedeptal člověka nevinného. Byl zavilý, nemilosrdný, otázky dokázal klást s výborným načasováním, byl agresivní, jízlivý a rád chytal za slovo. Marie tenhle styl práce neměla ráda a zvláště, když si sama byla stoprocentně jistá, že vyslýchaný nemá s případem co dělat, jí byly Vitoušovy metody dost proti srsti. Jednou označila Vitoušovy způsoby výslechu za gestapácké; spíš ale měla na mysli slovo estébácké, což pro ni bylo synonymum prvního jmenovaného. Případně, protože o Vitoušově minulosti toho mnoho nevěděla, spíše se domýšlela na základě jemných indicií.
 
 Navíc se jí Vitouš jevil jako naprostý rekordman v počtu sociálních fobií, které si radostně pěstoval a které si dovedl náležitě užít. Jako někdo trpí strachem z pavouků, z výšek nebo uzavřených prostor, Vitouš nesnášel vybrané skupiny lidí napříč celým společenským spektrem. Zde měřil spravedlivě každému stejným metrem. Nesnášel skinheady i anarchisty i národnostní menšiny, členy ODS i ČSSD. Nebylo sexuální úchylky, jíž by nepohrdal. Jeho homofobie byla vyhlášená a slovo lesba znělo z jeho úst jako vulgarismus nejhrubšího zrna, kterým dokázal štědře častovat nejen čtyřprocentní část ženské populace, ale také feministky či jakékoliv ženy ostentativně předvádějící svou nezávislost na mužích. Pedofily by nejraději osobně vykleštil bez poskytnutí sebemenší anestézie. Zelení pro něj byli vandráci, ochránci zvířat úchylové, myslivci vymatlanci s flintičkama, co se jednou navzájem vystřílejí, a bezdomovce vnímal jako bandu páchnoucích povalečů, nemakačenků a chronických lemplů. V televizi a ve filmech jsou takovéhle typy drsných policajtů oblíbené, protože grázlové si lepší zacházení nezaslouží; horší to ale je, když se s takovýmto pitbulem spravedlnosti setká člověk s čistým svědomím. Vitouš by řekl, že takoví mezi občany neexistují, Marie v tomto směru byla rozhodně optimističtější, což se týkalo i otce Karla Karase.
+
+</section>
+
+<section>
 
 „Pane faráři,“ zeptal se tedy Viktor Vitouš, „zabýváte se vymítáním ďábla?“
 
@@ -823,6 +841,10 @@ Mira chtěl odpovědět něco vtipného, ale jako obvykle ho nic nenapadlo, tak 
 
 Kupodivu se všichni zase rozřehtali a Mira byl šťastný, že přece jen něco vtipného řekl, byť to ani neměl v úmyslu. Všechno z něj spadlo a přišla úleva. Na jeden zátah dopil svůj půllitřík. Život umí být příjemný, stačí jen chtít. Jako třeba teď. Zvedl nad hlavu prázdný půllitr a zavolal na Frantu, ať sem hodí další.
 
+</section>
+
+<section>
+
 U auta Edelweiss řekl: „Ještě se s váma chci rozdělit.“
 
 „S čím?“ zeptala se Marie.
@@ -989,6 +1011,10 @@ Kněz vstal a přešel k psacímu stolu. Chvíli hledal v mobilu, pak Marii n
 
 „Dobře,“ podala Marie faráři vizitku, „až budete odjíždět, ozvěte se mi, ať vím, kde vás najdu.“
 
+</section>
+
+<section>
+
 Když došli k autu, Marie se prudce otočila na Edelweisse: „Skutečně nevím, o co vám tam šlo. Takový konfrontační tón nám tady rozhodně nepomůže.“
 
 „Mně se zas zdálo, že jste zapomněla, že je to pořád náš hlavní podezřelý z vraždy,“ odvětil Edelweiss stejným tónem.
@@ -1004,3 +1030,5 @@ Marie Výrová, která sledovala ten samý program, doma v křesle nadskočila.
 „To je to, na čem děláte?“ zeptala se v tu stejnou chvíli paní Edelweissová svého manžela. Ten pokýval hlavou a nevěřícně zíral na kostelníkovu ženu, která viditelně pookřála z ranního šoku a teď do kamery dramaticky líčila, byť notně přibarveně, co že to vlastně v kostele našla, zapomenuvši na zákaz o tom kdekoliv mluvit, který jí osobně udělil sám Nejvyšší.
 
 Richard Fořt si rychle na kousek papírku poznamenal jméno sdílné důchodkyně. Vražda v Karasově kostele! Vražda v kostele člověka, který mu zničil život. Který jej připravil o kariéru. Který zabránil vydání jeho knihy. Který proti němu štve a intrikuje. Plán ve Fořtově hlavě měl zatím jen nejasné kontury. Rychle spustil inter­net, aby se o zločinu a souvislostech dozvěděl co nejvíc. Protože tohle je jeho šance. Tohle je jeho šance to všechno Karasovi vrátit a přidat k tomu ještě něco navíc.
+
+</section>

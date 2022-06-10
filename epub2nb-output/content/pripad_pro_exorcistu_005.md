@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Případ pro exorcistu](https://search.mlp.cz/cz/titul/pripad-pro-exorcistu/3689866/#/) tak, jak bylo vydáno nakladatelstvím Paseka v Praze a Litomyšli v roce 2012. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 5. 3. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

@@ -3,6 +3,8 @@ title: PROLOG
 contentType: prose
 ---
 
+<section>
+
 ## I.  
 (čtvrtek 3. září)
 
@@ -81,6 +83,10 @@ Fořt chvíli mlčel.
 Fořt vstal a bez rozloučení odešel.
 
 Redaktor Rosenbaum byl už zvyklý na ledacos. Před časem mu jedna zavrhnutá básnířka (to ještě působil u jiného nakladatelství) bez jakékoliv logické souvislosti vmetla nad vráceným rukopisem do obličeje, že je agent s atomovými zbraněmi. Zvykl si. Nechápal sice, ale neprotestoval. Vzhledem k tomu, že se Fořt už vrátit nehodlal, pokračoval v přípravě edičního plánu. Ale ten název, mihlo mu hlavou. _Satan dnes!_ Ten člověk fakt musí být blázen.
+
+</section>
+
+<section>
 
 Ve skutečnosti Fořtova kniha zdaleka nebyla tak senzační, jak napovídal její název, což lektor ve svém odmítavém posudku neopomněl zdůraznit. Fořtovi neznámý lektor (mladý asistent z pražské filozofické fakulty; rozhodně tedy ani jeden z těch, které autor spisku sám podezříval) rukopis nemilosrdně označil za unikátní dílo v tom, jak se autorovi podařilo spojit zdánlivě nespojitelné: divoké spekulace a suchopárnou nudu. Vyslovil dokonce i nesmělé podezření, zdali to není čirá fikce. Lektor byl zapálený odborník přes náboženské sekty, ale o tom, co si přečetl ve Fořtově třísetstránkovém konvolutu, nikdy neslyšel. Hledal v odborné literatuře, dokonce pátral i po literatuře, ke které odkazoval Fořt (ne že by se to dělo zas tak často), ale s nulovým výsledkem. Na chvíli zapochyboval o své erudici i o oprávněnosti svého pět let starého doktorátu, ale pak to hodil za hlavu a v posudku označil autora za grafomana bez špetky stylistického talentu. Nebyl první, kdo si tohle myslel.
 
@@ -245,3 +251,5 @@ Kněz položil svou dlaň na Karasovo zápěstí, složené na kostelní lavici.
 „Její spolubydlící mi řekla, že od pátku je pryč.“
 
 Kněz malou chvíli bezradně mlčel. „Pomodlíme se spolu?“ navrhl potom.
+
+</section>
