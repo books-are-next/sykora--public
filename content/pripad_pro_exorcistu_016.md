@@ -3,6 +3,8 @@ title: "EPILOG 3\\. listopad\_– 22\\. listopad"
 contentType: prose
 ---
 
+<section>
+
 ## LXIX.
 
 Sešli se v kavárně na Horním náměstí. Karel Karas přišel o tři čtvrtě hodiny dřív. Usadil se u stolu u velkého okna a pozoroval, jak na město padá listopadový večer. Pršelo. Lidé spěchali pod deštníky přes náměstí a mokré dlažební kostky odrážely jejich stíny.
@@ -97,6 +99,10 @@ Marie začínala tušit, co jí paní Nemravová chce, ale ještě nesebrala dos
 
 „Mému manželovi se smáli. Pořád se mu smějí,“ řekla paní Nemravová tiše.
 
+</section>
+
+<section>
+
 O další týden později se velký sál štěpánovské sokolovny, kde se obvykle konají zábavy, myslivecké či hasičské plesy a velké obecní schůze, zaplnil do posledního místa. Starosta Liška trval i na přítomnosti Pavla Edelweisse a ten teď spolu s Marií a paní Nemravovou seděl na malém pódiu a zčásti nasupeně a zčásti nevěřícně hleděl na přítomné shromáždění. Starosta Liška akci pojal ve velkém stylu. Nejprve vystoupil pěvecký sbor místní základní školy a zapěl dvě slavnostní a zároveň přiměřeně smuteční písně. Pak promluvil starosta a přivítal diváky a zejména dva vzácné hosty od policie v Olomouci, „kteří svou obětavou prací pomohli k tomu, že Štěpánov je zase klidná a bezpečná obec. Všichni je znáte, milí přátelé, všichni jste je viděli v plném pracovním nasazení, když spolu se svými kolegy vyšetřovali ten strašlivý zločin, nejhorší v osmisetleté historii naší obce.“ Starosta se slavnostně odmlčel. „Vážení přátelé, přivítejte váženou paní majorku a doktorku práv Marii Výrovou a jejího kolegu nadporučíka Pavla Edelweisse.“ Potlesk. Oba jmenovaní hosté povstali. „Připadám si jak v americkým filmu,“ zasyčel Edelweiss Marii do ucha, „tam taky na závěr hrdinům dav tleská.“ Jak stáli, zaregistrovali řadu známých tváří – pečlivou paní Semerádovou, pohostinnou Krňávkovou v houfu dalších důchodkyň (manžel zřejmě zas někde vyspával opici), i manžele Doulovy, kupodivu oba tleskající.
 
 Ze strany se na pódium vyhrabaly dvě školačky s kyticemi a uctivě a nesměle je vzácným hostům předaly. Starosta zářil. Akce získávala čím dál tím slavnostnější tón a lidé se chovali vstřícně a spořádaně. Ani Marie, ani Edelweiss samozřejmě netušili, že ke spořádanosti akce přispěli dva noví obecní strážníci, kteří v předsálí sokolovny nemilosrdně protřídili přicházející zvědavce a za mlčenlivé asistence místního hospodského všechny ty, kdo jevili byť sebemenší stopu podroušenosti, posílali zpátky dolů do lokálu, aby dál popíjeli a nenarušovali akci. Starosta Liška v parádním, byť ne zrovna nejnovějším hnědém obleku si odkašlal, srovnal v ruce připravené kartičky se svou řečí a pokračoval: „Zločin, vážení přátelé, si ovšem vybírá svou krutou daň i na straně dobra. Proto zde chybí vážená kolegyně obou našich vzácných hostů – ano, přátelé, opět žena policistka! –, která byla při vyšetřování toho hrozného případu, jenž se nás všech tak dotkl, vážně zraněna při přestřelce během zatýkání jednoho podezřelého.“ V sále to zašumělo údivem.
@@ -141,6 +147,10 @@ Starosta poděkoval a vyzval všechny přítomné k minutě ticha za tragicky 
 
 „No to mě teda podržte,“ hlesl Edelweiss. Ale to už se k nim hrnul starosta a oběma jim předal dekrety o udělení čestného klíče vyvedené ozdobným písmem na ručním papíře. Na druhé straně pódia se opět houfoval školní pěvecký sbor.
 
+</section>
+
+<section>
+
 Když vyšli ven, vesnice se halila do mlhy a smogu. Z komínů stoupal těžký černý dým, převaloval se nad střechami a padal do zahrad na černé holé koruny ovocných stromů. Silnice a chodníky se mokře leskly, rozšlapaná tráva se přeměnila v bláto. Kostel sv. Vavřince naproti přes silnici se v mlze změnil v temnou zlověstnou siluetu. Škola tak pozdě odpoledne vypadala jako mrtvá budova, zato na faře se už svítilo.
 
 Marie Výrová a Pavel Edelweiss si jako na povel zvedli límce kabátů a vydali se k autu. Edelweiss se zhnuseně rozhlédl kolem, rozkašlal se a zakroutil hlavou: „Štěpánov by se nestal vesnicí roku, ani kdyby ho celý zbourali a postavili znovu.“
@@ -156,3 +166,5 @@ U vozu se ještě jednou rozhlédl. Z jednoho z domů stoupal obzvláště č
 Marie se jen smutně usmála a pokrčila rameny. Nastoupili a Edel­weiss nastartoval. „Víte, kdo nemá rád venkov?“ pokračoval Edelweiss. „Venkovani. Jinak by si takhle nemohli ničit vlastní životní prostředí. Jejich děti v tom žijí, musejí to dýchat, ale oni šetří na tom, že si nezavedou plynový topení.“ Edelweiss dostával čím dál větší vztek. „Do prdele s těma vidlákama! Klíče od obce! Pche! Nasrat. Tady bych nebydlel ani zadarmo!“
 
 „Ne?“ otočila se na něj Marie pobaveně. „A víte, že nám starosta nabídl moc pěkný dvojdomek?“
+
+</section>

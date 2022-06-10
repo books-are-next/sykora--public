@@ -3,6 +3,8 @@ title: "ŠTĚPÁNOV U\_OLOMOUCE"
 contentType: prose
 ---
 
+<section>
+
 **Rozloha katastru obce**: 2 827 ha.
 
 **Nadmořská výška**: 219–226 m nad mořem.
@@ -22,3 +24,5 @@ Ubytování: žádné.
 **Sport a kultura**: cyklistická stezka, fotbalové a volejbalové hřiště, soukromé tenisové kurty, kino, sokolovna.
 
 **Folklór**: tradiční hody sv. Vavřince.
+
+</section>

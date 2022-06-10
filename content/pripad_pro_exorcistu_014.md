@@ -3,6 +3,8 @@ title: DEN SEDMÝ středa 7\. října
 contentType: prose
 ---
 
+<section>
+
 ## XLVI.
 
 Náčelník byl vývojem debaty zaskočen. Obvyklé jiskření mezi Vitoušem a Výrovou přešlo v hádku, v níž on sám raději přijal jen roli moderátora debaty.
@@ -18,6 +20,10 @@ Marie pokývala hlavou.
 „Zcela se ztotožňuji s názorem kolegy Edelweisse,“ řekla Marie. „Zcela to odpovídá informacím, které o Fořtovi máme, a jeho profilu paranoidního schizofrenika. Byl dokonce hospitalizován v psy­chiatrické léčebně…“
 
 Náčelník ji nenechal domluvit: „Podívejte se, jsou toho plné noviny, od rána tady otravují televize a vůbec kdekdo. Na podobný střílečky tady vůbec nejsem zvědavej. Chci výsledky a chci je rychle.“
+
+</section>
+
+<section>
 
 Marie nasupeně vtrhla do kanceláře vyšetřovatelů. Celý tým byl zavalen papírováním a telefonováním. Kodet a Pacák třídili dokumenty; Purkyně komusi telefonoval. Kristýna Horová s ortézou kolem krku, ztuhlá a napřímená jako sfinga, seděla u počítače.
 
@@ -301,6 +307,10 @@ Znovu zavolala Edelweissovi: „O půl páté posbírejte všechna hlášení z
 
 „A vemte s sebou Kristýnu,“ ukončila Marie hovor a zavěsila.
 
+</section>
+
+<section>
+
 K jejímu překvapení za pět minut volal Edelweiss zpátky.
 
 „Chtěl bych se vás jen na něco zeptat,“ začal.
@@ -525,6 +535,10 @@ Obecní policajt Nemrava ze seriálů, na které se díval, věděl, že součá
 
 Podíval se do bloku a znovu si přečetl všechno, co si poznamenal rozechvělým a neumělým rukopisem:
 
+</section>
+
+<section>
+
 > _Co sdělit paní Vyšetřovalce Judr. Výrové Marii:_
 
 > _Souvislost případů_
@@ -539,6 +553,10 @@ Podíval se do bloku a znovu si přečetl všechno, co si poznamenal rozechvěl
 
 > _JE TEDY MOŽNÉ ŽE FR. SPÁČIL PŘI ODJEZDU UVIDĚL SLEČNU JAK ČEKÁ NA AUTOBUS NEBO JAK NA AUTOBUS VŮBEC NEČEKÁ. Nabízí se tedy otázka: FR. SPÁČIL – byla to nehoda?_
 
+</section>
+
+<section>
+
 Rozhodl se to prověřit. Služební škodovku našli stát před kostelem sv. Barbory. Někde tam se měl Spáčil opít. Ale jak? A proč? Jak se tam dostal? Právě to mu na přístupu policajtů ze Šternberka nejvíc nesedělo. Nekladli si otázky. To ta vyšetřovatelka z Olomouce by k tomu přistupovala úplně jinak. Musí s ní o tom promluvit.
 
 Znovu nastartoval vůz a rozjel se na Horní konec k nádraží. Byl detektiv. Tohle je věc, na kterou přišel sám. Dneska v noci už na další objížďky nepojede. Až zjistí, co potřebuje, vrátí se domů, probere to s ženou, spát nepůjde, protože je tak rozrušený a napnutý, že stejně neusne, a hned ráno zavolá do Olomouce a všechno to poví. Nebo nezavolá, ne, rovnou tam pojede, to bude lepší, tohle se musí vyřídit osobně.
@@ -546,6 +564,10 @@ Znovu nastartoval vůz a rozjel se na Horní konec k nádraží. Byl detektiv.
 Zastavil u obecní knihovny, na stejném místě jako tehdy Spáčil. Napadla ho ještě jedna věc. Když je tak rozjetý, když mu to tak jde, prohlédne ještě místo činu, tedy to, kde zůstala zaparkovaná obecní škodovka. Vytáhl z vozu baterku. Věděl, že ti diletanti ze Šternberka to neudělali, anebo udělali, ale blbě. Jak by to asi udělal Horácio z Kriminálky Miami, jak se na to tak rád dívá? Prošmejdí pečlivě trávník a určitě něco najde. Vlákno, nit, knoflík, nějaké to déená a zjistí, kdo to udělal Spáčilovi i té holce, protože tyhle dvě věci teď spolu jasně souvisejí. Přišel s baterkou na trávník mezi stromy před zavřeným kostelem z červených cihel. A zarazil se. Prostor byl rozsáhlý, možná čtyřicet metrů čtverečních. Zkusí najít nějaké krvavé stopy. Šmejdil baterkou po asfaltu silnice. Z hospody Na huti šla partička chlápků a začali na něj pokřikovat: „Hele, Orgán! Co hledáš, Orgáne? Upadl ti orgán?“ Řvali a chechtali se. Bylo půl jedenácté, a kdyby se Nemrava nerozhodl, že má na starost důležitější věci, a tudíž je bude ignorovat, mohl by je napomenout za rušení nočního klidu.
 
 Partička přešla a Nemrava v předklonu ve světle baterky bezradně chodil sem tam po kraji silnice před kostelem. Žádná výrazná vlákna, žádné stopy. Jen tráva a bordel. A navíc tma jak v pytli, vůbec nechápal, jak to v televizi v té tmě jen s těma baterkama Horácio s ostatníma vždycky dokážou najít. On nenašel nic.
+
+</section>
+
+<section>
 
 Vrátil baterku zpět do auta a už se chystal jít na nádraží, když si všiml přijíždějícího auta. Žlutá firemní dodávka s nápisem ZÁMEČNICTVÍ KOCYCH – MAKOVIČKA OLOMOUC zabočila do boční uličky a zajela mezi domky staré dělnické čtvrti. Nemravovi kdesi vzadu v hlavě naskočilo cosi, nač si nemohl vzpomenout, ale co určitě slyšel, a měl pocit, že se o tom bavila paní Výrová s tím svým kolegou, co má to německé jméno, na které si teď taky nemohl vzpomenout, stejně jako si nedokázal vybavit, co se mu to objevilo v hlavě.
 
@@ -595,6 +617,10 @@ Snažil se prásknout mu dveřmi před nosem, ale Nemrava pohotově strčil do d
 
 Užuž mohl být na ulici, jenže se při couvání nestrefil do dveří a vrazil znovu do futra. Ohlédl se přes rameno, kde je ten správný směr, ale současně periferním pohledem zachytil prudký pohyb. Muž na dvorku cosi popadl a rozmáchl se. Nemrava instinktivně zvedl ruku před obličej, ale k ničemu mu to nebylo.
 
+</section>
+
+<section>
+
 Asi o pět minut později si jeden z té rozjařené čtveřice odcházející z pohostinského zařízení Na hutích náhle vzpomněl, že v hospodě nechal bundu s klíči i mobilem. V tu chvíli se už nacházel skoro v půlce cesty domů, minuli obchod s domácími potřebami a měli nakročeno ke křižovatce s obchodem se zeleninou a květinami a zastávkou olomouckého autobusu. Štamgast zastavil a zvážil situaci. Bundu si může vyzvednout zítra ráno cestou na vlak, kterým pojede do Olomouce do práce. Mobil teď nepotřebuje, kdo by mu taky volal o půl jedenácté v noci. Ale ty klíče… Bude muset zazvonit. Pes – aby chcípl, kripl jeden! – bude štěkat. Vzbudí ženu a děcka. Ale i to by šlo zvládnout. Jenže taky vzbudí tchyni. Základní pravidlo: když štěká pes, štěká i tchyně. Asociací vzpomínek se vrátil ke dni, kdy mu žena navrhla, aby se přestěhovali „do domku k mamince“. Měla tehdy břicho, jako kdyby spolkla slona, garsonka v paneláku přestávala kapacitně vyhovovat, a pak ten argument „maminka mi pomůže s malým, ale jinak nic. Budeme mít vlastní vchod, celé patro, ona bude dole – a uvidíš, všechno to krásně zvládnem.“ Tak hovno! pomyslel si, že jsem si radši nenechal všechny zuby vytrhat. Všechny ty víkendy, kdy musel makat jak negr na baráku, místo, aby poseděl s chlapama Na hutích, protože „maminčin domeček“ se po jejich přistěhování stal černou dírou údržby a oprav. Než spravil střechu, do domku tak zatékalo, že neuplynul měsíc, aby nemusel vymalovat některou z místností, až mu chlapi v hospodě začali říkat Picasso. To vše mu během vteřiny blýsklo hlavou, k tomu jasná představa „maminčina“ monologu, kdyby v jedenáct v noci zazvonil – takže mu nezbývalo než říct: „Kurva, chlapi, já tam nechal klíče.“
 
 „Chlapi“ znali jeho rodinnou situaci, byli ženatí, měli pochopení, a tak se z čiré solidarity taky otočili a šli zpátky do hospody u nádraží pro zapomenutou bundu, byť si neodpustili přirovnání zapomnětlivce k pánskému genitálu.
@@ -608,3 +634,5 @@ Když dorazili zpět k bývalému německému evangelickému kostelu, uviděli 
 Zbylí tři mávli rukou a v pivem vyživených mozcích jim povstal nápad, co Orgánovi asi provedou. Návrh otočit auto na střechu byl metodou pokusu a omylu shledán nerealizovatelným, tak se spokojili s mnohem méně efektním, ale srovnatelně zábavným vypuštěním všech čtyř kol. Než se čtvrtý do party vrátil se svými věcmi z hospody, zvládli ještě dveře a vypuštěná kola vydatně pomočit, takže společně nastoupili zpáteční cestu s pocitem dobře vykonané práce.
 
 Ani jeden si nevšiml, že o kus dál z přítmí vedlejší uličky vedoucí do staré dělnické kolonie kdosi jejich opileckému dovádění přihlíží. Muž v džínách a kožené bundě měl v úmyslu přistavit Nemravovo služební auto k zadním dveřím jednoho ze starých dělnických domků, naložit do něj nyní už bývalého uživatele tohoto vozu a odvézt oboje někam do polí při okresce mezi Štěpánovem a Bohuňovicemi, kde by auto i jeho bývalý šofér dlouho čekali, než by je někdo objevil. Tenhle nápad teď padl kvůli těmhle ožralým pitomcům! Muž se ve stínu domků otočil a vydal se zpět. Bude muset vymyslet něco jiného.
+
+</section>
